@@ -60,7 +60,7 @@ python generate_data_and_train.py
   
 ## Project Done By:
 - Gautham K
-- Kushal P
+- Kushal P Hiremath
 
 ## Contributing
 Feel free to fork and submit pull requests. Issues welcome!
