@@ -56,6 +56,10 @@ python generate_data_and_train.py
 - *OSMnx*: Fetches industrial areas and road lengths within 2km radius.
 - *Models*: Predicts sources based on pollutants, weather, and geospatial features.
 - *Limitations*: Data is sampled to 500 rows for efficiency. Extend for production.
+  
+## Project Done By:
+Gautham K
+Kushal P
 
 ## Contributing
 Feel free to fork and submit pull requests. Issues welcome!
