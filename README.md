@@ -44,6 +44,11 @@ python generate_data_and_train.py
 - models/: Stores trained ML models (e.g., model.joblib).
 - requirements.txt: Dependencies.
 - .gitignore: Ignores unnecessary files.
+## Dashboard Pictures
+<img width="1470" height="791" alt="Screenshot 2025-10-01 at 12 58 09 AM" src="https://github.com/user-attachments/assets/8dbd59f2-5a78-4637-845c-bb4ea8d28aad" />
+<img width="1470" height="752" alt="Screenshot 2025-10-01 at 12 58 34 AM" src="https://github.com/user-attachments/assets/76609915-205d-4979-97f8-d3c92d20592f" />
+<img width="1453" height="762" alt="Screenshot 2025-10-01 at 12 58 43 AM" src="https://github.com/user-attachments/assets/c84a6ca8-a5fa-4c07-80b0-a2168fb64733" />
+<img width="1470" height="702" alt="Screenshot 2025-10-01 at 12 58 48 AM" src="https://github.com/user-attachments/assets/6f0bbe07-f984-4627-ab7a-9afc12f155ba" />
 
 ## Data Sources and Notes
 - *OpenAQ API*: Used for real-time/historical air quality data. Limit requests to avoid rate limits.
@@ -56,4 +61,4 @@ python generate_data_and_train.py
 Feel free to fork and submit pull requests. Issues welcome!
 
 ## License
-MIT License (or your choice).
+MIT License.
