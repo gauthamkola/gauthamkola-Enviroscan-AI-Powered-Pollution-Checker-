@@ -18,7 +18,7 @@ A machine learning-based web application built with Streamlit to monitor air pol
 ## Installation
 1. Clone the repo:
 git clone https://github.com/gauthamkola/gauthamkola-Enviroscan-AI-Powered-Pollution-Checker-.git
-cd Enviroscan-AI-Powered-Pollution-Checker-.git
+- cd gauthamkola-Enviroscan-AI-Powered-Pollution-Checker-
 2. Install dependencies:
 pip install -r requirements.txt
 3. Set up API keys (in generate_data_and_train.py):
