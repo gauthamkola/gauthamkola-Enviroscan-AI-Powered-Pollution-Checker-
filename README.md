@@ -24,6 +24,7 @@ pip install -r requirements.txt
 3. Set up API keys (in generate_data_and_train.py):
 - OpenAQ API Key: Replace the placeholder.
 - Ngrok Auth Token: Replace in the script if using ngrok.
+- OpenWeatherApi Key: Replace in the placeholder.
 
 ## Usage
 1. Generate data and train models:
