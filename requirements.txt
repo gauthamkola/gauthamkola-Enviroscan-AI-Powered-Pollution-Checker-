@@ -1,0 +1,15 @@
+streamlit
+folium
+streamlit-folium
+plotly
+scikit-learn
+joblib
+pyngrok
+requests
+osmnx
+geopandas
+xgboost
+pandas
+numpy
+warnings
+datetime
